@@ -1,0 +1,15 @@
+.Following a{
+ text-decoration: none;
+ font-size: 22px;
+}
+.follow{
+    color: #9B9B9B;
+  
+}
+.count{
+    color: black;
+}
+.block_follow{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}

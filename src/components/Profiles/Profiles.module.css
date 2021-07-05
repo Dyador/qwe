@@ -1,0 +1,16 @@
+.Cc{
+    /* grid-area: b; */
+    background-color: olive;
+    width: 650px;
+    height: 700px;
+    color: black;
+    font-size: 30px;
+}
+.profile{
+   display: flex;
+   Justify-content: center;
+}
+.profilestatus{
+    display: inline;
+    border: 3px solid green;
+}

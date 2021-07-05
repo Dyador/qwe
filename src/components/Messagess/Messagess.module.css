@@ -1,0 +1,38 @@
+.Cc{
+   
+    background-color: aqua;
+    width: 650px;
+    height: 700px;
+    color: black;
+    font-size: 45px;
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.name{
+    width: 150px;
+    
+  padding-right: 150px;  
+}
+.messege_content{
+    width: 400px;
+    border-radius: 30px;
+    border: solid 1px black;
+    padding: 10px;
+    margin: 5px;
+
+}
+.name a{
+    width: 190px;
+    text-decoration: none;
+    display: flex;
+    flex-flow: column wrap;
+    padding: 15px;
+    font-size: 20px;
+    border-bottom: solid 1px #EEEEEE;
+    border-left: solid 1px #EEEEEE ;
+    border-right: solid 1px #EEEEEE ;
+    background-color: white;
+}

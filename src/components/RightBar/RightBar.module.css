@@ -1,0 +1,53 @@
+.RightBar{
+    background-color: white;
+    width: 250px;
+    height: 300px;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    box-shadow:
+     0 1px 4px rgba(0, 0, 0, .3),
+     -23px 0 20px -23px rgba(0, 0, 0, .8),
+     23px 0 20px -23px rgba(0, 0, 0, .8),
+     0 0 45px rgba(0, 0, 0, .1) inset;
+}
+.RightBar_logo{
+    
+    width: 130px;
+    height: 130px;
+    
+}
+.bold_text{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+   
+}
+.text{
+text-align: center;
+padding-top: 15px;
+color: #9B9B9B;
+}
+.line_color{
+    background-color: #E5E5E5;
+    width: 100%;
+    height: 2px;
+}
+.sl{
+   padding-top: 10px;
+   
+}
+.sl a{
+    text-decoration: none;
+}
+.singup{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    }
+.larnmore{
+    
+    color: red;
+    font-size: 14px;
+    letter-spacing:1.9px; 
+}

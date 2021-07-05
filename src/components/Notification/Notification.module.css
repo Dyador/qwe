@@ -1,0 +1,8 @@
+.Cc{
+    grid-area: b;
+    background-color: rgb(104, 104, 245);
+    width: 650px;
+    height: 700px;
+    color: black;
+    font-size: 30px;
+}

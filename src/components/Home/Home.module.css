@@ -1,0 +1,16 @@
+.wrapper{
+   
+    grid-area: b;
+    background-color: white;
+    max-width: 650px;
+    height: 700px;
+    padding: 10px 200px 10px 200px;
+    
+}
+.wrapper a{
+    text-decoration: none;
+    color: black;
+    font-size: 27px;
+    font-weight: 700;
+    margin: 10px;
+}

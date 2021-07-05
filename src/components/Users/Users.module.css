@@ -1,0 +1,40 @@
+/* .Cc{
+    grid-area: b;
+    background-color: forestgreen;
+    max-width: 650px;
+    height: auto;
+    color: black;
+    font-size: 50px;
+   
+} */
+
+
+
+img{
+   
+    width: 150px;
+    height: 150px;
+    
+}
+.num{
+    background-color: aqua;
+    width: 100px;
+
+}
+.number{
+    color: black;
+    font-size: 23px;
+    margin-bottom: 10px;
+    cursor:  pointer;
+}
+.selectedPage{
+    font-weight: bold;
+    padding: 4px;
+    display: flex;
+    
+}
+.styleFet{
+    
+    position: absolute;
+    margin-left:250px;
+}
